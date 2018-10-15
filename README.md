@@ -1,4 +1,4 @@
 # elasticsearch_learning
 
 # get-started
-[offical video]()
+[offical video](video/getting-started-elasticsearch.m3u8)
